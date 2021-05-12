@@ -3,6 +3,7 @@ output: github_document
 ---
 
 # Projeto Emissão de CO2 do solo e Concentração de CO2 atmosférico
+# Classificação de uso e cobertura do solo google earth engine
 ## CANTERAL K.; Panosso A.R.; LIMA, L.R.
 
 
